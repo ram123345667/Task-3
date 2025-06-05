@@ -1,0 +1,20 @@
+1. What are the key elements of a dashboard?
+A dashboard typically includes KPIs, charts, tables, filters, and navigation tools. It displays data summaries in a visual format to help users monitor performance and make decisions quickly. Good dashboards are user-friendly, real-time, and customizable based on business needs.
+
+2. What is a KPI?
+KPI stands for Key Performance Indicator. It is a measurable value that shows how effectively a company is achieving its business objectives. Examples include sales growth, profit margin, and customer retention rate.
+
+3. What are slicers in Power BI?
+Slicers are visual filter tools in Power BI that allow users to interactively filter data on the dashboard. They provide an intuitive way to filter reports by categories like region, time, or product with a simple click.
+
+4. Difference between Power BI and Tableau?
+Power BI is a Microsoft product, tightly integrated with Excel and Azure, ideal for beginners and enterprise solutions. Tableau offers more advanced visual analytics, is preferred for deep data exploration, and is known for its flexibility and performance with large datasets.
+
+5. How do you make a dashboard interactive?
+To make dashboards interactive, use filters, slicers, drill-downs, dynamic visuals, and responsive charts. These allow users to explore data across different dimensions and gain insights without altering the underlying data structure.
+
+6. How do you deal with large datasets in dashboards?
+Use data aggregation, incremental data loading, optimized queries, and columnar storage. Limit visuals per page, use efficient data models, and consider tools like DirectQuery or data extracts for faster performance.
+
+7. What chart types do you use for trend analysis?
+For trend analysis, commonly used charts include line charts, area charts, bar charts, and sometimes scatter plots with time-series data. These help visualize patterns, fluctuations, and growth over time.
